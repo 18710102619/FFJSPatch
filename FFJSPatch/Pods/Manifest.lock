@@ -4,7 +4,7 @@ PODS:
   - JSPatch/Core (0.1.5)
 
 DEPENDENCIES:
-  - JSPatch (~> 0.1.5)
+  - JSPatch
 
 SPEC CHECKSUMS:
   JSPatch: 405b5f5990643e6717dd6715ac60d6a2b582a6ba
